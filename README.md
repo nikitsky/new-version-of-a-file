@@ -16,7 +16,7 @@ test.html -> test v.1.html -> test v.2.html
 
 5. File -> Export .... and save as 'Create new version.workflow' in Services folder
 
-[New_version_workflow.png]
+![Automator screenshot](https://github.com/nikitsky/new-version-of-a-file/blob/master/New_version_workflow.png?raw=true "Automator screenshot")
 
 
 ##How to use
